@@ -6,4 +6,4 @@ Summary
 * [Service Worker](service-worker.md)
 * App Install Banners
 * Engage & Retain Users
-  * [The Web App Manifest]()
+  * [The Web App Manifest](engage/the-web-app-manifest.md)
