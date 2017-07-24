@@ -4,7 +4,7 @@
 
 #### Install with Polymer App Toolbox
 
-``
+```
 $ npm install -g polymer-cli
-``
+```
 
